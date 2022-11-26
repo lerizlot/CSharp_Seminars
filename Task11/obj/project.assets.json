@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminar1/Task11/Task11.csproj",
+      "projectUniqueName": "/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task11/Task11.csproj",
       "projectName": "Task11",
-      "projectPath": "/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminar1/Task11/Task11.csproj",
+      "projectPath": "/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task11/Task11.csproj",
       "packagesPath": "/Users/lerizlot/.nuget/packages/",
-      "outputPath": "/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminar1/Task11/obj/",
+      "outputPath": "/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task11/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lerizlot/.nuget/NuGet/NuGet.Config"
