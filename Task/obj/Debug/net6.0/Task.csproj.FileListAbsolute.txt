@@ -1,0 +1,15 @@
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/bin/Debug/net6.0/Task
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/bin/Debug/net6.0/Task.deps.json
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/bin/Debug/net6.0/Task.dll
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/bin/Debug/net6.0/Task.pdb
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/obj/Debug/net6.0/Task.dll
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/obj/Debug/net6.0/Task.pdb
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/lerizlot/Library/Mobile Documents/com~apple~CloudDocs/Developer/Csharp_Seminars/Task/obj/Debug/net6.0/ref/Task.dll
