@@ -4,19 +4,32 @@
 // 89126 -> 5
 
 Console.WriteLine("Введите ваше число");
-int num = Convert.ToInt32(Console.ReadLine());
+int num1 = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine(num.ToString().Length);
+Console.WriteLine(num1.ToString().Length);
 
 // альтернативное решение
 
 Console.WriteLine("Введите ваше число 2");
-string number = Console.ReadLine();
-int count = 0;
-char[] array = new char[number.Length];
+string num2 = Console.ReadLine()!;
+int count2 = 0;
+char[] array = new char[num2.Length];
 for (int i = 0; i < array.Length; i++)
 {
-    array[i] = number[i];
-    count++;
+    array[i] = num2[i];
+    count2++;
 }
-Console.WriteLine("Количество цифр " +count);
+Console.WriteLine("Количество цифр " +count2);
+
+// решение задачи через цикл while
+
+Console.WriteLine("Введите ваше число 3 ");
+int num3 = Convert.ToInt32(Console.ReadLine());
+int count3 = 0;
+while (num3 > 0)
+{
+    num3 /= 10;
+    count3++;
+}
+
+Console.WriteLine(count3);
