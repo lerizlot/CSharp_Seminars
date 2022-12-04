@@ -15,3 +15,18 @@ if ( b * b == a)
     Console.WriteLine("Число a является квадратом числа b");
 else
     Console.WriteLine("Число a не является квадратом числа b");
+
+int SayPlus(int n1, int n2)
+{
+    int x = n1 + n2;
+    return x;
+}
+
+int x1 = SayPlus(2, 3);
+Console.WriteLine(x1);
+
+int x2 = SayPlus(21, 23);
+Console.WriteLine(x2);
+
+int x3 = SayPlus(12, 45);
+Console.WriteLine(x3);
